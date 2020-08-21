@@ -1,0 +1,21 @@
+{
+  "name": "@my-company-name/danh-muc",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^9.1.11",
+    "@angular/core": "^9.1.11",
+    "@abp/ng.core": ">=3.0.4",
+    "@abp/ng.theme.shared": ">=3.0.4"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "main": "bundles/my-company-name-danh-muc.umd.js",
+  "module": "fesm2015/my-company-name-danh-muc.js",
+  "es2015": "fesm2015/my-company-name-danh-muc.js",
+  "esm2015": "esm2015/my-company-name-danh-muc.js",
+  "fesm2015": "fesm2015/my-company-name-danh-muc.js",
+  "typings": "my-company-name-danh-muc.d.ts",
+  "metadata": "my-company-name-danh-muc.metadata.json",
+  "sideEffects": false
+}

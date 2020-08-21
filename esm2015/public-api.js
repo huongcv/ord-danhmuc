@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of danh-muc
+ */
+export * from './lib/components/danh-muc.component';
+export * from './lib/services/danh-muc.service';
+export * from './lib/danh-muc.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL2RhbmgtbXVjL3NyYy9wdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYyxxQ0FBcUMsQ0FBQztBQUNwRCxjQUFjLGlDQUFpQyxDQUFDO0FBQ2hELGNBQWMsdUJBQXVCLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIGRhbmgtbXVjXG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9saWIvY29tcG9uZW50cy9kYW5oLW11Yy5jb21wb25lbnQnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvc2VydmljZXMvZGFuaC1tdWMuc2VydmljZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9kYW5oLW11Yy5tb2R1bGUnO1xuIl19

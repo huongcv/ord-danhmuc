@@ -1,0 +1,11 @@
+{
+  "main": "../bundles/my-company-name-danh-muc-config.umd.js",
+  "module": "../fesm2015/my-company-name-danh-muc-config.js",
+  "es2015": "../fesm2015/my-company-name-danh-muc-config.js",
+  "esm2015": "../esm2015/config/my-company-name-danh-muc-config.js",
+  "fesm2015": "../fesm2015/my-company-name-danh-muc-config.js",
+  "typings": "my-company-name-danh-muc-config.d.ts",
+  "metadata": "my-company-name-danh-muc-config.metadata.json",
+  "sideEffects": false,
+  "name": "@my-company-name/danh-muc/config"
+}
